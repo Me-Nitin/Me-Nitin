@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Me-Nitin/Me-Nitin/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Me-Nitin/Me-Nitin/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -48,6 +48,6 @@
 ###
 
 <br clear="both">
-  ![Snake animation](https://github.com/Me-Nitin/Me-Nitin/blob/output/dist/snake.svg?palette=github-dark)
+ ![Snake animation](https://github.com/Me-Nitin/Me-Nitin/blob/output/github-contribution-grid-snake.svg)
 
 ###
